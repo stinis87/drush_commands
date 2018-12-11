@@ -1,5 +1,5 @@
 {
-  "name": "drupal/bouvet_drush_commands",
+  "name": "stinis87/drush_commands",
   "description": "Bouvet drush kommandoer",
   "type": "drupal-module",
   "autoload": {
