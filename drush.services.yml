@@ -1,0 +1,5 @@
+services:
+  bouvet_drush_commands.commands:
+    class: \Drupal\bouvet_drush_commands\Commands\BouvetDrushCommands
+    tags:
+      - { name: drush.command }

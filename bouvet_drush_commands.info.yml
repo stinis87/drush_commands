@@ -1,0 +1,6 @@
+name: Bouvet drush commands
+description: Bouvet drush commands
+core: 8.x
+type: module
+package: Bouvet
+

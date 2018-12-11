@@ -1,0 +1,17 @@
+{
+  "name": "drupal/bouvet_drush_commands",
+  "description": "Bouvet drush kommandoer",
+  "type": "drupal-module",
+  "autoload": {
+    "psr-4": {
+      "Drupal\\bouvet_drush_commands\\": "src/"
+    }
+  },
+  "extra": {
+    "drush": {
+      "services": {
+        "drush.services.yml": "^9"
+      }
+    }
+  }
+}
